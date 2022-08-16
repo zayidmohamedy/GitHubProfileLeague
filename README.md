@@ -55,6 +55,15 @@ Due to some image sizing, you may have to scroll to see the screenshots of the p
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 
+## League 4🥉:
+
+
+| [zayidmohamedy](https://github.com/zayidmohamedy) : `🏅 0` |   |   |
+| -------- | -------- | -------- |
+| ![image](https://user-images.githubusercontent.com/65617964/184930614-9d284ae7-86a5-45f9-9a0c-aef215478b3c.png) |   |   |
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 ## 🎯 How does the League grouping work and how will the winner be determined?
 
 - Once all leagues are full, the 48 hour countdown will begin. This means there will be 48 hours for people to vote.
